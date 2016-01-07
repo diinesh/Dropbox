@@ -24,8 +24,8 @@ Time spent: 9 hours
 
 ### Walkthrough
 
-`<Add your Walkthrough Gif here (by updating the image URL)>`
-![Video Walkthrough](...)
+
+![https://raw.githubusercontent.com/diinesh/Dropbox/master/assigment2-dinesh.gif]
 
 
 
